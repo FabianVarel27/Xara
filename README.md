@@ -1,3 +1,9 @@
+## About Project Xara
+
+Xara is a student collaboration forum concept aligned with SDG 4: Quality Education. It aims to help students ask questions, share 
+answers, and find teammates for academic projects. Planned features include topic-based posts, comments, voting, search, and project
+collaboration.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
