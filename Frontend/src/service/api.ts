@@ -1,0 +1,1 @@
+// Pusat koneksi React ke Laravel
