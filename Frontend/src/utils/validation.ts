@@ -1,1 +1,0 @@
-// Untuk memvalidasi tiap data sebelum dikirim ke backend

@@ -1,1 +1,0 @@
-// semua logic yang berhubungan dengan post
